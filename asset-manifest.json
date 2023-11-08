@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/digitalculture/static/css/main.073c9b0a.css",
+<<<<<<< HEAD
+    "main.js": "/digitalculture/static/js/main.4a994ee5.js",
+    "static/js/787.aa5a87da.chunk.js": "/digitalculture/static/js/787.aa5a87da.chunk.js",
+    "index.html": "/digitalculture/index.html",
+    "main.073c9b0a.css.map": "/digitalculture/static/css/main.073c9b0a.css.map",
+    "main.4a994ee5.js.map": "/digitalculture/static/js/main.4a994ee5.js.map",
+=======
+<<<<<<< HEAD
+    "main.js": "/digitalculture/static/js/main.e0f535ba.js",
+    "static/js/787.aa5a87da.chunk.js": "/digitalculture/static/js/787.aa5a87da.chunk.js",
+    "index.html": "/digitalculture/index.html",
+    "main.073c9b0a.css.map": "/digitalculture/static/css/main.073c9b0a.css.map",
+    "main.e0f535ba.js.map": "/digitalculture/static/js/main.e0f535ba.js.map",
+=======
+    "main.js": "/digitalculture/static/js/main.cee9ef6c.js",
+    "static/js/787.aa5a87da.chunk.js": "/digitalculture/static/js/787.aa5a87da.chunk.js",
+    "index.html": "/digitalculture/index.html",
+    "main.073c9b0a.css.map": "/digitalculture/static/css/main.073c9b0a.css.map",
+    "main.cee9ef6c.js.map": "/digitalculture/static/js/main.cee9ef6c.js.map",
+>>>>>>> 1449607a472db20570bca1b7ef186009343084d3
+>>>>>>> ff0ec250e8d5b80b751ae6e2e5b072df41c6698c
+    "787.aa5a87da.chunk.js.map": "/digitalculture/static/js/787.aa5a87da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+<<<<<<< HEAD
+    "static/js/main.4a994ee5.js"
+=======
+<<<<<<< HEAD
+    "static/js/main.e0f535ba.js"
+=======
+    "static/js/main.cee9ef6c.js"
+>>>>>>> 1449607a472db20570bca1b7ef186009343084d3
+>>>>>>> ff0ec250e8d5b80b751ae6e2e5b072df41c6698c
+  ]
+}
